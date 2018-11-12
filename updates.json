@@ -1,0 +1,19 @@
+{
+  "win32-x64-prod": {
+    "readme": "修改成功导入私钥多次提示；\n修复自动上锁后的可能出现解锁失败的问题；\n其他细节优化；",
+    "update": "https://imgs.beacelee.com/keymanager/release/KeyManager%20Setup%200.14.7.exe",
+    "install": "https://imgs.beacelee.com/keymanager/release/KeyManager%20Setup%200.14.7.exe",
+    "version": "0.14.7"
+  },
+  "darwin-x64-prod": {
+    "readme": "修改成功导入私钥多次提示；\n修复自动上锁后的可能出现解锁失败的问题；\n其他细节优化；",
+    "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
+    "install": "https://imgs.beacelee.com/keymanager/release/KeyManager-0.14.7.dmg",
+    "version": "0.14.7"
+  },
+  "linux-x64-prod": {
+    "update": "https://imgs.beacelee.com/keymanager/release/keymanager-0.14.7-x86_64.AppImage",
+    "install": "https://imgs.beacelee.com/keymanager/release/keymanager-0.14.7-x86_64.AppImage",
+    "version": "0.14.7"
+  }
+}
