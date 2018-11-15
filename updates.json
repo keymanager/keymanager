@@ -1,12 +1,12 @@
 {
   "win32-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n修复自动上锁后的可能出现解锁失败的问题；\n其他细节优化；",
+    "readme": "关联kmdb；",
     "update": "https://github.com/keymanager/keymanager/releases/download/v0.18.1/KeyManager.Setup.0.18.1.exe",
     "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.1/KeyManager.Setup.0.18.1.exe",
     "version": "0.18.1"
   },
   "darwin-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n修复自动上锁后的可能出现解锁失败的问题；\n其他细节优化；",
+    "readme": "关联kmdb；",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
     "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.1/KeyManager-0.18.1.dmg",
     "version": "0.18.1"
