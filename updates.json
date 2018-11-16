@@ -1,19 +1,19 @@
 {
   "win32-x64-prod": {
     "readme": "修改成功导入私钥多次提示；\n修复Windows下的快捷键和点击无效的问题；\n切换数据库后重新载入数据；",
-    "update": "https://github.com/keymanager/keymanager/releases/download/v0.18.6/KeyManager.Setup.0.18.6.exe",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.6/KeyManager.Setup.0.18.6.exe",
-    "version": "0.18.6"
+    "update": "https://github.com/keymanager/keymanager/releases/download/v0.18.11/KeyManager.Setup.0.18.11.exe",
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.11/KeyManager.Setup.0.18.11.exe",
+    "version": "0.18.11"
   },
   "darwin-x64-prod": {
     "readme": "修改成功导入私钥多次提示；\n修复Windows下的快捷键和点击无效的问题；\n切换数据库后重新载入数据；",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.6/KeyManager-0.18.6.dmg",
-    "version": "0.18.6"
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.11/KeyManager-0.18.11.dmg",
+    "version": "0.18.11"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/keymanager/keymanager/releases/download/v0.18.6/KeyManager-0.18.6-x86_64.AppImage",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.6/KeyManager-0.18.6-x86_64.AppImage",
-    "version": "0.18.6"
+    "update": "https://github.com/keymanager/keymanager/releases/download/v0.18.11/KeyManager-0.18.11-x86_64.AppImage",
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.18.11/KeyManager-0.18.11-x86_64.AppImage",
+    "version": "0.18.11"
   }
 }
