@@ -1,12 +1,12 @@
 {
   "win32-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n修复Windows下的快捷键和点击无效的问题；\n切换数据库后重新载入数据；",
+    "readme": "修改成功导入私钥多次提示；\n - 修复acme订单成功后无刷新现象; \n - 修复及证书信息的逻辑判断错误；\n - windows 下证书一键安装；",
     "update": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager.Setup.0.19.5.exe",
     "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager.Setup.0.19.5.exe",
     "version": "0.19.5"
   },
   "darwin-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n修复Windows下的快捷键和点击无效的问题；\n切换数据库后重新载入数据；",
+    "readme": "修改成功导入私钥多次提示；\n - 修复acme订单成功后无刷新现象; \n - 修复及证书信息的逻辑判断错误；\n - windows 下证书一键安装；",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
     "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager-0.19.5.dmg",
     "version": "0.19.5"
