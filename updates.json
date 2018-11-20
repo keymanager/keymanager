@@ -1,19 +1,19 @@
 {
   "win32-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n - 修复acme订单成功后无刷新现象; \n - 修复及证书信息的逻辑判断错误；\n - windows 下证书一键安装；",
-    "update": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager.Setup.0.19.5.exe",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager.Setup.0.19.5.exe",
-    "version": "0.19.5"
+    "readme": "- 修复Windows平台下kmdb文件打开没有切换数据库的问题；",
+    "update": "https://github.com/keymanager/keymanager/releases/download/v0.19.8/KeyManager.Setup.0.19.8.exe",
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.8/KeyManager.Setup.0.19.8.exe",
+    "version": "0.19.8"
   },
   "darwin-x64-prod": {
-    "readme": "修改成功导入私钥多次提示；\n - 修复acme订单成功后无刷新现象; \n - 修复及证书信息的逻辑判断错误；\n - windows 下证书一键安装；",
+    "readme": "- 修复Windows平台下kmdb文件打开没有切换数据库的问题；",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager-0.19.5.dmg",
-    "version": "0.19.5"
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.8/KeyManager-0.19.8.dmg",
+    "version": "0.19.8"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager-0.19.5-x86_64.AppImage",
-    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.5/KeyManager-0.19.5-x86_64.AppImage",
-    "version": "0.19.5"
+    "update": "https://github.com/keymanager/keymanager/releases/download/v0.19.8/KeyManager-0.19.8-x86_64.AppImage",
+    "install": "https://github.com/keymanager/keymanager/releases/download/v0.19.8/KeyManager-0.19.8-x86_64.AppImage",
+    "version": "0.19.8"
   }
 }
