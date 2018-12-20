@@ -1,19 +1,19 @@
 {
   "win32-x64-prod": {
     "readme": "- 更改签名证书",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.10.exe",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.10.exe",
-    "version": "0.20.10"
+    "update": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.13.exe",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.13.exe",
+    "version": "0.20.13"
   },
   "darwin-x64-prod": {
     "readme": "- 更改签名证书",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.10.dmg",
-    "version": "0.20.10"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.dmg",
+    "version": "0.20.13"
   },
   "linux-x64-prod": {
-    "update": "https://keymanager.trustasia.com/release/KeyManager-0.20.10.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.10.AppImage",
-    "version": "0.20.10"
+    "update": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.AppImage",
+    "version": "0.20.13"
   }
 }
