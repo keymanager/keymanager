@@ -1,19 +1,20 @@
 {
   "win32-x64-prod": {
-    "readme": "- 更改签名证书",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.13.exe",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.13.exe",
-    "version": "0.20.13"
+    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.16.exe",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.16.exe",
+    "version": "0.20.16"
   },
   "darwin-x64-prod": {
-    "readme": "- 更改签名证书",
+    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.dmg",
-    "version": "0.20.13"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.dmg",
+    "version": "0.20.16"
   },
   "linux-x64-prod": {
-    "update": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.13.AppImage",
-    "version": "0.20.13"
+    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.AppImage",
+    "version": "0.20.16"
   }
 }
