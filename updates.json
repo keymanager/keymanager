@@ -1,20 +1,20 @@
 {
   "win32-x64-prod": {
-    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.16.exe",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-0.20.16.exe",
-    "version": "0.20.16"
+    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/squirrel-windows",
+    "install": "https://keymanager.trustasia.com/release/squirrel-windows/KeyManager-Setup-1.0.0.exe",
+    "version": "1.0.0"
   },
   "darwin-x64-prod": {
-    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
+    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.dmg",
-    "version": "0.20.16"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.dmg",
+    "version": "1.0.0"
   },
   "linux-x64-prod": {
-    "readme": "- 修复部分PFX格式无法导入问题； \n- 优化界面，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-0.20.16.AppImage",
-    "version": "0.20.16"
+    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.AppImage",
+    "version": "1.0.0"
   }
 }
