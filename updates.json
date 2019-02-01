@@ -1,20 +1,20 @@
 {
   "win32-x64-prod": {
-    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/squirrel-windows",
-    "install": "https://keymanager.trustasia.com/release/squirrel-windows/KeyManager-Setup-1.0.0.exe",
-    "version": "1.0.0"
+    "readme": "\n- 新增证书扫描功能(支持服务器扫描与C网段扫描); \n- 支持JSK格式(Tomcat)导入导出; \n- 支持邮件证书/文档签名证书等; \n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-1.1.0.exe",
+    "version": "1.1.0"
   },
   "darwin-x64-prod": {
-    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
+    "readme": "\n- 新增证书扫描功能(支持服务器扫描与C网段扫描); \n- 支持JSK格式(Tomcat)导入导出; \n- 支持邮件证书/文档签名证书等; \n- 优化界面，修复了一些问题。",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.dmg",
-    "version": "1.0.0"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.1.0.dmg",
+    "version": "1.1.0"
   },
   "linux-x64-prod": {
-    "readme": "\n- 修复部分PFX格式无法导入问题； \n- 新增数据备份功能(如OneDrive,iCloud等)\n- 优化界面，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.0.0.AppImage",
-    "version": "1.0.0"
+    "readme": "\n- 新增证书扫描功能(支持服务器扫描与C网段扫描); \n- 支持JSK格式(Tomcat)导入导出; \n- 支持邮件证书/文档签名证书等各种格式证书; \n- 优化界面，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-1.1.0.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.1.0.AppImage",
+    "version": "1.1.0"
   }
 }
