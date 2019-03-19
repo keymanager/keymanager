@@ -1,20 +1,20 @@
 {
   "win32-x64-prod": {
-    "readme": "\n- 新增证书分类管理; \n- 新增证书格式装换工具; \n- 修复了IIS安装失败问题; \n- 优化界面，修复了一些问题。",
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
     "update": "https://keymanager.trustasia.com/release",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-1.2.4.exe",
-    "version": "1.2.4"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-1.2.6.exe",
+    "version": "1.2.6"
   },
   "darwin-x64-prod": {
-    "readme": "\n- 新增证书分类管理; \n- 新增证书格式装换工具; \n- 修复了IIS安装失败问题; \n- 优化界面，修复了一些问题。",
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.4.dmg",
-    "version": "1.2.4"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.dmg",
+    "version": "1.2.6"
   },
   "linux-x64-prod": {
-    "readme": "\n- 新增证书分类管理; \n- 新增证书格式装换工具; \n- 修复了IIS安装失败问题; \n- 优化界面，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-1.2.4.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.4.AppImage",
-    "version": "1.2.4"
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.AppImage",
+    "version": "1.2.6"
   }
 }
