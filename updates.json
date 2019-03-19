@@ -1,20 +1,20 @@
 {
   "win32-x64-prod": {
-    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n修复了生产CSR后，无法导出证书的问题; \n- 界面优化，修复了一些问题。",
     "update": "https://keymanager.trustasia.com/release",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-1.2.6.exe",
-    "version": "1.2.6"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-Setup-1.2.7.exe",
+    "version": "1.2.7"
   },
   "darwin-x64-prod": {
-    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n修复了生产CSR后，无法导出证书的问题; \n- 界面优化，修复了一些问题。",
     "update": "https://raw.githubusercontent.com/keymanager/keymanager/master/update-for-mac.json",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.dmg",
-    "version": "1.2.6"
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.7.dmg",
+    "version": "1.2.7"
   },
   "linux-x64-prod": {
-    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n- 界面优化，修复了一些问题。",
-    "update": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.AppImage",
-    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.6.AppImage",
-    "version": "1.2.6"
+    "readme": "\n- 支持keymanager://协议;  \n- 新增CSR管理; \n修复了生产CSR后，无法导出证书的问题; \n- 界面优化，修复了一些问题。",
+    "update": "https://keymanager.trustasia.com/release/KeyManager-1.2.7.AppImage",
+    "install": "https://keymanager.trustasia.com/release/KeyManager-1.2.7.AppImage",
+    "version": "1.2.7"
   }
 }
